@@ -1,0 +1,117 @@
+main: net.mceteams.smpplugin
+prefix: "[MCE - SMP]:"
+version: ${project.version}
+
+name: MCE_SMP
+description: Plugin du serveur SMP
+author: Dylan LEFORT
+website: 'lsmp.mceteams.net'
+
+api-version: '1.20'
+
+permissions:
+  MCE-SMPPlugin.play_sound:
+    description: Permet aux joueurs de jouer des sons personnalisés
+    default: true
+
+commands:
+  unclaim:
+    description: sert a enlever la possession du terrain.
+    usage: /<command>
+
+  vanish:
+    description: Disparaitre.
+    permission: 4
+    usage: /<command>
+
+  fly:
+    description: Voler.
+    permission: 4
+    usage: /<command>
+
+  heal:
+    description: Se heal.
+    permission: 4
+    usage: /<command>
+
+  feed:
+    description: Se nourrir.
+    permission: 4
+    usage: /<command>
+
+  enderchest:
+    description: Ouvrir son ender chest.
+    usage: /<command>
+
+  ec:
+    description: Ouvrir son ender chest.
+    usage: /<command>
+
+  tpa:
+    description: Fait une demande de téléportation a un joueurs.
+    usage: /<command> <joueur>
+
+  tpaccept:
+    description: Accepte la demande de téléportation.
+    usage: /<command>
+
+  tpdeny:
+    description: Refuse la demande de téléportation.
+    usage: /<command>
+
+  home:
+    description: Se téléporter a un point de téléportation.
+    usage: /<command> [Nom]
+
+  sethome:
+    description: Créer un point de téléportation.
+    usage: /<command> [Nom]
+
+  delhome:
+    description: Supprimer un point de téléportation.
+    usage: /<command> [Nom]
+
+  jobs:
+    description: "[INDISPONIBLE]"
+    usage: /<command>
+
+  changelog:
+    description: Obtenir le résumé des dernière mises à jours du serveur.
+    usage: /<command>
+
+  tempban:
+    permission: 4
+    description: Bannir temporairement un joueur.
+    usage: /<command>
+
+  money:
+    description: Obtenir votre solde ou payer un joueur.
+    usage: /<command> [Pay]
+
+  town:
+    description: Paramètre de votre ville.
+    usage: /<command> [create/dismount/invite/kick/list/settings]
+
+  claim:
+    description: Permet de claim une zone.
+    usage: /<command>
+
+  war:
+    description: Permet de déclarer une guerre ou de l'arrêter.
+    usage: /<command>
+
+  admin:
+    description: Ajoute des permissions administrateur ou les retires.
+    permission: 4
+    usage: /<command> [add/remove] [joueur] [admin/moderator]
+
+  getversion:
+    description: Obtenir la version d'un joueur.
+    permission: 4
+    usage: /<command> [Joueur]
+
+  register:
+    description: S'enregistrer au sein du serveur.
+
+  login:
+    description: Se connecter.
