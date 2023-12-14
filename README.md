@@ -2,11 +2,11 @@
 
 ## Sujets :
 
-* Utilité
-* Serveurs concerné
-* Disponibilités
-* Versions
-* License
+* [Utilité](https://github.com/Le-noirrateur/MCE-SMP_PrivateSource?tab=readme-ov-file#utilit%C3%A9-)
+* [Serveurs concerné](https://github.com/Le-noirrateur/MCE-SMP_PrivateSource/edit/main/README.md#serveurs-concern%C3%A9-)
+* [Disponibilités](https://github.com/Le-noirrateur/MCE-SMP_PrivateSource/edit/main/README.md#disponibilit%C3%A9-)
+* [Versions](https://github.com/Le-noirrateur/MCE-SMP_PrivateSource/edit/main/README.md#versions-)
+* [License](https://github.com/Le-noirrateur/MCE-SMP_PrivateSource/edit/main/README.md#license-)
 
 ### Utilité :
 
