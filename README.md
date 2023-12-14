@@ -3,10 +3,10 @@
 ## Sujets :
 
 * [Utilité](https://github.com/Le-noirrateur/MCE-SMP_PrivateSource?tab=readme-ov-file#utilit%C3%A9-)
-* [Serveurs concerné](https://github.com/Le-noirrateur/MCE-SMP_PrivateSource/edit/main/README.md#serveurs-concern%C3%A9-)
-* [Disponibilités](https://github.com/Le-noirrateur/MCE-SMP_PrivateSource/edit/main/README.md#disponibilit%C3%A9-)
-* [Versions](https://github.com/Le-noirrateur/MCE-SMP_PrivateSource/edit/main/README.md#versions-)
-* [License](https://github.com/Le-noirrateur/MCE-SMP_PrivateSource/edit/main/README.md#license-)
+* [Serveurs concerné](https://github.com/Le-noirrateur/MCE-SMP_PrivateSource?tab=readme-ov-file#serveurs-concern%C3%A9-)
+* [Disponibilités](https://github.com/Le-noirrateur/MCE-SMP_PrivateSource?tab=readme-ov-file#disponibilit%C3%A9-)
+* [Versions](https://github.com/Le-noirrateur/MCE-SMP_PrivateSource?tab=readme-ov-file#versions-)
+* [License](https://github.com/Le-noirrateur/MCE-SMP_PrivateSource?tab=readme-ov-file#license-)
 
 ### Utilité :
 
